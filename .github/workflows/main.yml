@@ -1,7 +1,10 @@
-name: TestWorkflow
+name: Metrics
 
 on:
   workflow_dispatch:
+  push:
+    paths:
+      - .github/workflows/main.yml
   schedule:
     - cron: "0 0 */7 * *"
 
