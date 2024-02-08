@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="569" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1170" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column,footer{display:flex;flex-direction:column}.column{align-items:center}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.added{color:#3fb950}.field.license.details,.field.license.details small{display:flex;justify-content:space-between}.field.license.details small{color:#666;text-align:right}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.gemoji{height:1em;width:1em;margin-bottom:-.125em}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -31,7 +31,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                             </svg>
-                            5 members
+                            4 members
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -49,7 +49,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
                             </svg>
-                            2 Repositories
+                            4 Repositories
                         </h2>
                         <div class="row">
                             <section>
@@ -75,7 +75,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" d="M2.5 3.5c0-.133.058-.318.282-.55.227-.237.592-.484 1.1-.708C4.899 1.795 6.354 1.5 8 1.5c1.647 0 3.102.295 4.117.742.51.224.874.47 1.101.707.224.233.282.418.282.551 0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 5.205 9.646 5.5 8 5.5c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707-.224-.233-.282-.418-.282-.551zM1 3.5c0-.626.292-1.165.7-1.59.406-.422.956-.767 1.579-1.041C4.525.32 6.195 0 8 0c1.805 0 3.475.32 4.722.869.622.274 1.172.62 1.578 1.04.408.426.7.965.7 1.591v9c0 .626-.292 1.165-.7 1.59-.406.422-.956.767-1.579 1.041C11.476 15.68 9.806 16 8 16c-1.805 0-3.475-.32-4.721-.869-.623-.274-1.173-.62-1.579-1.04-.408-.426-.7-.965-.7-1.591v-9zM2.5 8V5.724c.241.15.503.286.779.407C4.525 6.68 6.195 7 8 7c1.805 0 3.475-.32 4.722-.869.275-.121.537-.257.778-.407V8c0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 9.705 9.646 10 8 10c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707C2.558 8.318 2.5 8.133 2.5 8zm0 2.225V12.5c0 .133.058.318.282.55.227.237.592.484 1.1.708 1.016.447 2.471.742 4.118.742 1.647 0 3.102-.295 4.117-.742.51-.224.874-.47 1.101-.707.224-.233.282-.418.282-.551v-2.275c-.241.15-.503.285-.778.406-1.247.549-2.917.869-4.722.869-1.805 0-3.475-.32-4.721-.869a6.236 6.236 0 01-.779-.406z"/>
                                     </svg>
-                                    326 kB used
+                                    415 kB used
                                 </div>
                                 <div class="field ">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -113,7 +113,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/>
                                     </svg>
-                                    0 views in last two weeks
+                                    121 views in last two weeks
                                 </div>
                             </section>
                         </div>
@@ -139,11 +139,27 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>No recent push activity found
-                
-                  over last 10 days</small>
+                <small>estimation from 42.1kb of code in 31 edited files across 32 commits over last 10 days</small>
+                <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
+                    <mask id="languages-bar">
+                        <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
+                    </mask>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="460" height="8" fill="#000080"/>
+                </svg>
                 <div class="row fill-width">
                     <section>
+                        <div class="field language details">
+                            <div class="field">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                    <path fill="#000080" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                </svg>
+                                Lua
+                            </div>
+                            <small>
+                                <div>100%</div>
+                            </small>
+                        </div>
                     </section>
                     <section>
                     </section>
@@ -165,19 +181,49 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        <div class="user">github-actions[bot]</div>
+                                        <div class="user">notsokodya</div>
                                         pushed 1 commit in
-                                        <span class="repo">UnitLabs/.github</span>
+                                        <span class="repo">UnitLabs/proptomia</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#ea54e27</div>
-                                        <div class="message">Update profile/metrics.svg - [Skip GitHub Action]</div>
+                                        <div class="sha">#dcaa45b</div>
+                                        <div class="message">Added temporary migration of proptomia_buddies, minor changes in logs, fish 🐡
+
+* added temporary migration
+cus i've changed table schema and proptomia code doesn't love old now (rip)
+
+* minor changes in logs
+warn color is orange now
+added spaces to "INFO" and "WARN" so it fits to other logging codes :p
+
+* fish
+🦈
+𓆝 𓆟 𓆞 𓆝𓆝 𓆟 𓆞 𓆝𓆝 𓆟 𓆞 𓆝𓆝 𓆟 𓆞 𓆝𓆝 𓆟 𓆞 𓆝𓆝 𓆟 𓆞 𓆝𓆝 𓆟 𓆞 𓆝𓆝 𓆟 𓆞 𓆝𓆝 𓆟 𓆞 𓆝𓆝 𓆟 𓆞 𓆝</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">29 Jan 2024, 01:17:02</div>
+                                <div class="timestamp">7 Feb 2024, 18:24:02</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path d="M11.28 6.78a.75.75 0 00-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l3.5-3.5z"/>
+                                        <path fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zm-1.5 0a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        <div class="user">Zvbhrf</div>
+                                        closed
+                                        <span class="issue">#2 Отсутствие SmartSnap</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by Chipy1 in <span class="repo">UnitLabs/issues</span></div>
+                                </div>
+                                <div class="timestamp">6 Feb 2024, 14:21:34</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -187,26 +233,232 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        <div class="user">github-actions[bot]</div>
+                                        <div class="user">notsokodya</div>
                                         pushed 1 commit in
-                                        <span class="repo">UnitLabs/.github</span>
+                                        <span class="repo">UnitLabs/proptomia</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#1ee8fde</div>
-                                        <div class="message">Update profile/metrics.svg - [Skip GitHub Action]</div>
+                                        <div class="sha">#1563d72</div>
+                                        <div class="message">updated readme.md
+
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣤⡤⠤⠤⠤⣤⣄⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡤⠞⠋⠁⠀⠀⠀⠀⠀⠀⠀⠉⠛⢦⣤⠶⠦⣤⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⢀⣴⠞⢋⡽⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠃⠀⠀⠙⢶⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⣰⠟⠁⠀⠘⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⡀⠀⠀⠉⠓⠦⣤⣤⣤⣤⣤⣤⣄⣀⠀⠀⠀
+⠀⠀⠀⠀⣠⠞⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣴⣷⡄⠀⠀⢻⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠻⣆⠀
+⠀⠀⣠⠞⠁⠀⠀⣀⣠⣏⡀⠀⢠⣶⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠹⠿⡃⠀⠀⠀⣧⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠸⡆
+⢀⡞⠁⠀⣠⠶⠛⠉⠉⠉⠙⢦⡸⣿⡿⠀⠀⠀⡄⢀⣀⣀⡶⠀⠀⠀⢀⡄⣀⠀⣢⠟⢦⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⠃
+⡞⠀⠀⠸⠁⠀⠀⠀⠀⠀⠀⠀⢳⢀⣠⠀⠀⠀⠉⠉⠀⠀⣀⠀⠀⠀⢀⣠⡴⠞⠁⠀⠀⠈⠓⠦⣄⣀⠀⠀⠀⠀⣀⣤⠞⠁⠀
+⣧⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⠀⠁⠀⢀⣀⣀⡴⠋⢻⡉⠙⠾⡟⢿⣅⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠉⠙⠛⠉⠉⠀⠀⠀⠀
+⠘⣦⡀⠀⠀⠀⠀⠀⠀⣀⣤⠞⢉⣹⣯⣍⣿⠉⠟⠀⠀⣸⠳⣄⡀⠀⠀⠙⢧⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠈⠙⠒⠒⠒⠒⠚⠋⠁⠀⡴⠋⢀⡀⢠⡇⠀⠀⠀⠀⠃⠀⠀⠀⠀⠀⢀⡾⠋⢻⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡇⠀⢸⡀⠸⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠀⠀⢠⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣇⠀⠀⠉⠋⠻⣄⠀⠀⠀⠀⠀⣀⣠⣴⠞⠋⠳⠶⠞⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠳⠦⢤⠤⠶⠋⠙⠳⣆⣀⣈⡿⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+meow</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">22 Jan 2024, 01:26:21</div>
+                                <div class="timestamp">5 Feb 2024, 13:31:04</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        <div class="user">notsokodya</div>
+                                        pushed 19 commits in
+                                        <span class="repo">UnitLabs/proptomia</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#9f142b6</div>
+                                        <div class="message">
+                                            rewrited from scratch permissions panel
+
+it was so god damn long
+                                            <img class="gemoji" src="data:image/png;base64,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" height="16" width="16" alt="" />
+                                        </div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0e05026</div>
+                                        <div class="message">fixed displaying world's entities info
+
+me when models/props_junk/PopCan01a.mdl owner is "W"
+
+⠀⠀⠀⠀⠀⠀⠀⢠⣿⣿⣦⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⣿⣦⡀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⢠⣿⣿⣿⣿⣆⠀⠀⠀⠀⠀⠀⠀⠀⣾⣿⣿⣿⣷⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⢀⣾⣿⣿⣿⣿⣿⡆⠀⠀⠀⠀⠀⠀⣸⣿⣿⣿⣿⣿⡆⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⣾⣿⣿⣿⣿⣿⣿⣿⡀⠀⠀⠀⠀⢀⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣧⠀⠀⠀⠀⣼⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣠⣤⣤⣼⣿⣿⣿⣿⣿⣿⣿⣿⣷⠀⠀⠀⠀⠀
+⠀⠀⠀⢀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀
+⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀
+⠀⠀⠀⠘⣿⣿⣿⣿⠟⠁⠀⠀⠀⠹⣿⣿⣿⣿⣿⠟⠁⠀⠀⠹⣿⣿⡿⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⣿⣿⣿⡇⠀⠀⠀⢼⣿⠀⢿⣿⣿⣿⣿⠀⣾⣷⠀⠀⢿⣿⣷⠀⠀⠀⠀⠀
+⠀⠀⠀⢠⣿⣿⣿⣷⡀⠀⠀⠈⠋⢀⣿⣿⣿⣿⣿⡀⠙⠋⠀⢀⣾⣿⣿⠀⠀⠀⠀⠀
+⢀⣀⣀⣀⣿⣿⣿⣿⣿⣶⣶⣶⣶⣿⣿⣿⣿⣾⣿⣷⣦⣤⣴⣿⣿⣿⣿⣤⠤⢤⣤⡄
+⠈⠉⠉⢉⣙⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣇⣀⣀⣀⡀⠀
+⠐⠚⠋⠉⢀⣬⡿⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⣥⣀⡀⠈⠀⠈⠛
+⠀⠀⠴⠚⠉⠀⠀⠀⠉⠛⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠛⠋⠁⠀⠀⠀⠉⠛⠢⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⣰⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⢠⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⢠⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⢠⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⢠⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡄⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8ed9447</div>
+                                        <div class="message">fixed not displaying owner after they left, removed debug prints
+
+cppi sucks lol, proptomia.GetOwner is superior
+
+also wtf i forgot to remove debug prints</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#67fb626</div>
+                                        <div class="message">
+                                            fixed props deleting when someone join (lmao what)
+
+worst code ever
+                                            <img class="gemoji" src="data:image/png;base64,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" height="16" width="16" alt="" />
+                                        </div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d66f561</div>
+                                        <div class="message">notifications + prepare for coding buddies panel from scratch
+
+added notifications when someone change permissions for you aka edit shit in buddy menu
+
+added panel for toggling convars and etc
+
+removed almost entire buddies panel code lmao</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#dff2cfd</div>
+                                        <div class="message">moved utils to shared, made GetPlayerBySteamID shared
+
+blame rubat for my actions :3c</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#617875a</div>
+                                        <div class="message">fixed another epic fail
+
+oh nooo!! player doesn't exist!!! lol who cares we are sending net to NIL 🗣🗣🗣🗣</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#43d02ef</div>
+                                        <div class="message">fixed bugs
+
+fixed comparing nil with current time (epic fail)
+
+fixed sending net to not existing player (really)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f08d64c</div>
+                                        <div class="message">hooks are less stupid now
+
+placed boolean before steamid and etc</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2b5263f</div>
+                                        <div class="message">replaced weird moment in proptomia.ChangeBuddyPermission
+
+why i wrote `name == false` lol</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#52a10c9</div>
+                                        <div class="message">added hook when player removes all permissions</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d986b82</div>
+                                        <div class="message">split sh_buddies on sides and rewrote from scratch
+
+now code is readable (finally)
+also removed useless and strange moments</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#91cc183</div>
+                                        <div class="message">brother in christ, rubat can u optimize this shit already
+
+no, really, why you can't just make something like this</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b4d1099</div>
+                                        <div class="message">added debug logs and support for my upcoming tool, edited way how players and entities being logged
+
++ proptomia.LogDebug(...)
++ proptomia.debug [bool]
+* player_entity -&gt; "Kodya[STEAMID:blah blah]"
+   entity -&gt; "[5][func_door]"</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0f9ac30</div>
+                                        <div class="message">meow meow meow, meow! (hooks removed)
+
+silly</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#abb59d4</div>
+                                        <div class="message">changed my mind, fuck notifications&gt;:3
+
+proptomia lore</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#44ca5f5</div>
+                                        <div class="message">added notifications when someone gives or takes your access
+
+i rly hate them, so they are disabled by default :p</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f24fce7</div>
+                                        <div class="message">fixed bug when network about removing from buddies not being sent. Added client hooks for buddies</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a3ecebc</div>
+                                        <div class="message">fixed bug with hook.GetTable().Think
+
+bruh</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">5 Feb 2024, 13:07:39</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path d="M11.28 6.78a.75.75 0 00-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l3.5-3.5z"/>
+                                        <path fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zm-1.5 0a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        <div class="user">Zvbhrf</div>
+                                        closed
+                                        <span class="issue">#1 cool issue</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by Zvbhrf in <span class="repo">UnitLabs/issues</span></div>
+                                </div>
+                                <div class="timestamp">5 Feb 2024, 02:20:15</div>
                             </section>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
-                <span>Last updated 1 Feb 2024, 01:20:33  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 8 Feb 2024, 01:15:26  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
