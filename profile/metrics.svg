@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="867" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="980" class="">
     <defs>
         <style/>
     </defs>
@@ -75,7 +75,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" d="M2.5 3.5c0-.133.058-.318.282-.55.227-.237.592-.484 1.1-.708C4.899 1.795 6.354 1.5 8 1.5c1.647 0 3.102.295 4.117.742.51.224.874.47 1.101.707.224.233.282.418.282.551 0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 5.205 9.646 5.5 8 5.5c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707-.224-.233-.282-.418-.282-.551zM1 3.5c0-.626.292-1.165.7-1.59.406-.422.956-.767 1.579-1.041C4.525.32 6.195 0 8 0c1.805 0 3.475.32 4.722.869.622.274 1.172.62 1.578 1.04.408.426.7.965.7 1.591v9c0 .626-.292 1.165-.7 1.59-.406.422-.956.767-1.579 1.041C11.476 15.68 9.806 16 8 16c-1.805 0-3.475-.32-4.721-.869-.623-.274-1.173-.62-1.579-1.04-.408-.426-.7-.965-.7-1.591v-9zM2.5 8V5.724c.241.15.503.286.779.407C4.525 6.68 6.195 7 8 7c1.805 0 3.475-.32 4.722-.869.275-.121.537-.257.778-.407V8c0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 9.705 9.646 10 8 10c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707C2.558 8.318 2.5 8.133 2.5 8zm0 2.225V12.5c0 .133.058.318.282.55.227.237.592.484 1.1.708 1.016.447 2.471.742 4.118.742 1.647 0 3.102-.295 4.117-.742.51-.224.874-.47 1.101-.707.224-.233.282-.418.282-.551v-2.275c-.241.15-.503.285-.778.406-1.247.549-2.917.869-4.722.869-1.805 0-3.475-.32-4.721-.869a6.236 6.236 0 01-.779-.406z"/>
                                     </svg>
-                                    979 MB used
+                                    980 MB used
                                 </div>
                                 <div class="field ">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -113,7 +113,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/>
                                     </svg>
-                                    71 views in last two weeks
+                                    98 views in last two weeks
                                 </div>
                             </section>
                         </div>
@@ -159,7 +159,7 @@
                 <h3 class="field">Recently used languages</h3>
                 <small>No recent push activity found
                 
-                  over last 14 days</small>
+                  over last 3 days</small>
                 <div class="row fill-width">
                     <section>
                     </section>
@@ -180,54 +180,19 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/>
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                                     </svg>
                                     <div class="content">
                                         <div class="user">Zvbhrf</div>
-                                        updated 1 wiki page in
-                                        <span class="repo">UnitLabs/community</span>
+                                        commented on
+                                        <span class="issue">#18 фикс звуков и камеры</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div class="page">FAQ</div>
+                                    <div>opened by BXVtower in <span class="repo">UnitLabs/community</span></div>
+                                    <div class="comment">Контроллера фиксится после перезагрузки луа, возможно где-то что-то не инитиализируется вовремя из-за изменений на юните.</div>
                                 </div>
-                                <div class="timestamp">28 Aug 2025, 16:13:07</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/>
-                                    </svg>
-                                    <div class="content">
-                                        <div class="user">Zvbhrf</div>
-                                        updated 1 wiki page in
-                                        <span class="repo">UnitLabs/community</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div class="page">FAQ</div>
-                                </div>
-                                <div class="timestamp">28 Aug 2025, 16:12:20</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/>
-                                    </svg>
-                                    <div class="content">
-                                        <div class="user">Zvbhrf</div>
-                                        updated 1 wiki page in
-                                        <span class="repo">UnitLabs/community</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div class="page">FAQ</div>
-                                </div>
-                                <div class="timestamp">28 Aug 2025, 12:34:57</div>
+                                <div class="timestamp">29 Aug 2025, 15:35:24</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -244,9 +209,9 @@
                                 </div>
                                 <div class="details">
                                     <div>opened by BXVtower in <span class="repo">UnitLabs/community</span></div>
-                                    <div class="comment">Мне нужны способы для повтора всех багов</div>
+                                    <div class="comment">Я выключил старый модуль звуков (оригинал из старого ваера), в котором захардкожена дистанция проигрывания звуков.</div>
                                 </div>
-                                <div class="timestamp">25 Aug 2025, 17:33:23</div>
+                                <div class="timestamp">29 Aug 2025, 14:12:37</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -256,23 +221,63 @@
                                         <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                                     </svg>
                                     <div class="content">
-                                        <div class="user">BXVtower</div>
+                                        <div class="user">Zvbhrf</div>
                                         commented on
-                                        <span class="issue">#18 фикс звуков и камеры</span>
+                                        <span class="issue">#20 Tile builder ломает пропы</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by BXVtower in <span class="repo">UnitLabs/community</span></div>
-                                    <div class="comment">Под обычными звуками я имел ввиду е2, двигатели и т.д.</div>
+                                    <div>opened by Yurii-Ykan in <span class="repo">UnitLabs/community</span></div>
+                                    <div class="comment">Я удалил этот аддон, так как помимо этого он вызывает другие баги и творит какую-то чушь с функционалом игры.
+Если он все-таки будет нужен (а я не замечал его приминения), то я поставлю исправленную версию. Однако, все же "исправленная версия" не исправляет аддон полностью.</div>
                                 </div>
-                                <div class="timestamp">25 Aug 2025, 17:02:48</div>
+                                <div class="timestamp">29 Aug 2025, 12:04:11</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path d="M11.28 6.78a.75.75 0 00-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l3.5-3.5z"/>
+                                        <path fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zm-1.5 0a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        <div class="user">Zvbhrf</div>
+                                        closed
+                                        <span class="issue">#20 Tile builder ломает пропы</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by Yurii-Ykan in <span class="repo">UnitLabs/community</span></div>
+                                </div>
+                                <div class="timestamp">29 Aug 2025, 12:04:11</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        <div class="user">Yurii-Ykan</div>
+                                        commented on
+                                        <span class="issue">#20 Tile builder ломает пропы</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by Yurii-Ykan in <span class="repo">UnitLabs/community</span></div>
+                                    <div class="comment">Tile builder &gt; просто зажать пкм по чужому пропу, если проп паренченый он пропадёт и начнёт вызывать crazy physics.
+https://drive.google.com/file/d/1-7JJlUFU5bZFVmhix-wlTq0_febHK0JG/view?usp=sharing</div>
+                                </div>
+                                <div class="timestamp">29 Aug 2025, 11:45:10</div>
                             </section>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
-                <span>Last updated 29 Aug 2025, 00:38:57  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 1 Sept 2025, 00:48:19  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
